@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "type": "tip",
+    "title": "Use the 50/30/20 rule",
+    "body": "Put 50% of income to needs, 30% to wants and 20% to savings.",
+    "imageUrl": "https://raw.githubusercontent.com/CWX07/smartexpense-data/main/rule.png"
+  },
+  {
+    "id": 2,
+    "type": "advice",
+    "title": "Track small spending",
+    "body": "Daily drinks and snacks add up. Log every one for a week.",
+    "imageUrl": "https://raw.githubusercontent.com/CWX07/smartexpense-data/main/coffee.png"
+  },
+  {
+    "id": 3,
+    "type": "tip",
+    "title": "Pay yourself first",
+    "body": "Move money to savings on payday, before you spend.",
+    "imageUrl": "https://raw.githubusercontent.com/CWX07/smartexpense-data/main/piggy.png"
+  },
+  {
+    "id": 4,
+    "type": "advice",
+    "title": "Shop with a list",
+    "body": "Write a list before shopping and buy only what is on it.",
+    "imageUrl": "https://raw.githubusercontent.com/CWX07/smartexpense-data/main/cart.png"
+  },
+  {
+    "id": 5,
+    "type": "tip",
+    "title": "Wait 24 hours",
+    "body": "For non-essential buys, wait a day. Many urges pass.",
+    "imageUrl": "https://raw.githubusercontent.com/CWX07/smartexpense-data/main/cart.png"
+  },
+  {
+    "id": 6,
+    "type": "advice",
+    "title": "Set category limits",
+    "body": "Give Food and Entertainment a monthly cap and check it weekly.",
+    "imageUrl": "https://raw.githubusercontent.com/CWX07/smartexpense-data/main/rule.png"
+  },
+  {
+    "id": 7,
+    "type": "tip",
+    "title": "Build an emergency fund",
+    "body": "Aim for 3 months of expenses saved for surprises.",
+    "imageUrl": "https://raw.githubusercontent.com/CWX07/smartexpense-data/main/piggy.png"
+  },
+  {
+    "id": 8,
+    "type": "advice",
+    "title": "Cook at home more",
+    "body": "Cooking 3 extra meals a week can cut food spending a lot.",
+    "imageUrl": "https://raw.githubusercontent.com/CWX07/smartexpense-data/main/coffee.png"
+  }
+]
